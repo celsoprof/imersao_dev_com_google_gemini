@@ -26,7 +26,3 @@ Quer ajudar a melhorar o Busca-Atletas Fantástico? Contribuições são bem-vin
 
 ## Licença
 Este projeto está licenciado sob a licença MIT.
-
-## Autor
-[Seu nome]
-[Seu email]
