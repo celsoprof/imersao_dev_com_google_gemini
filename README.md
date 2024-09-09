@@ -1,4 +1,4 @@
-# Busca-Atletas Fantástico 
+# Busca-Atletas Fantástico - Imersão DEV com Google Gemini
 
 ## O que é?
 Um buscador mágico que te conecta com seus atletas favoritos! ✨
@@ -12,9 +12,6 @@ Um buscador mágico que te conecta com seus atletas favoritos! ✨
 * **JavaScript:** A magia por trás da busca.
 * **HTML:** A estrutura da nossa página.
 * **CSS:** O estilo que deixa tudo lindo.
-
-## Demonstração
-[Inserir um GIF ou imagem da sua aplicação em funcionamento]
 
 ## Contribuindo
 Quer ajudar a melhorar o Busca-Atletas Fantástico? Contribuições são bem-vindas!
